@@ -33,29 +33,30 @@
   * Identificador da credencial: Nº da credencial UC-KOY4CJOO
 
 **Experiências**
-* Object Pascal (com experência em Delphi 5, Delphi 6, Delphi 2007, Delphi XE3, Delphi 10 Seattle)
-* Java(Android)
-* PHP
-* JAVASCRIPT
-* MYSQL
-* Firebird
-* SQLite
-* HTML5 
-* CSS3 
-* XML 
-* JSON 
-* JQUERY 
-* AJAX 
-* Bootstrap
-
-**Conhecimentos**
-* DOM
-* Firebase Realtime Database
-* Node.js
-* NPM
-* Prestashop
-* Wordpress
-* Git & GitHub
+* Desktop
+  * Object Pascal (com experência em Delphi 5, Delphi 6, Delphi 2007, Delphi XE3, Delphi 10 Seattle)
+  * Firebird
+* Web
+  * PHP
+  * MYSQL
+  * HTML5
+  * CSS3
+  * JAVASCRIPT
+  * XML
+  * JSON
+  * JQUERY
+  * AJAX
+  * Bootstrap
+  * DOM
+  * Node.js
+  * NPM
+  * Prestashop
+  * Wordpress
+  * Git & GitHub
+* Mobile
+  * Java
+  * SQLite
+  * Firebase Realtime Database
 
 <!--
 **gustavoMarkez23/gustavoMarkez23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
