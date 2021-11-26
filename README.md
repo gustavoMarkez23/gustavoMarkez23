@@ -5,7 +5,7 @@
 **Meus Contatos**
 * gustavo.markez23@gmail.com
 * [Linkedin](https://www.linkedin.com/in/gustavo-marques-1901b5215/)
-* [Github](https://github.com/gustavoMarkez23)
+<!--* [Github](https://github.com/gustavoMarkez23)-->
 
 **Experiências profissionais**
 * Ascont Sistemas & Web
