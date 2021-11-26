@@ -32,7 +32,9 @@
   * Data de emissão: Abril de 2019
   * Identificador da credencial: Nº da credencial UC-KOY4CJOO
 
-**Experiências**
+**Habilidades**
+
+_**Experiente**_
 * Desktop
   * Object Pascal (com experência em Delphi 5, Delphi 6, Delphi 2007, Delphi XE3, Delphi 10 Seattle)
   * Firebird
@@ -48,14 +50,18 @@
   * AJAX
   * Bootstrap
   * DOM
+* Mobile
+  * Java
+  * SQLite
+  
+_**Conhecedor**_
+* Web
   * Node.js
   * NPM
   * Prestashop
   * Wordpress
   * Git & GitHub
 * Mobile
-  * Java
-  * SQLite
   * Firebase Realtime Database
 
 <!--
