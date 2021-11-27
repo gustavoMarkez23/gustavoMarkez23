@@ -40,7 +40,7 @@
 
 _**Experiente**_
 * Desktop
-  * Object Pascal (com experência em Delphi 5, Delphi 6, Delphi 2007, Delphi XE3, Delphi 10 Seattle)
+  * Object Pascal (com experiência em Delphi 5, Delphi 6, Delphi 2007, Delphi XE3, Delphi 10 Seattle)
   * Firebird
 * Web
   * PHP
