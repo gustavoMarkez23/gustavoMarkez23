@@ -17,7 +17,11 @@
   * Diploma: Curso Superior de Tecnologia (CST)
   * Área de estudo: Sistemas para Internet
   * Período: 2016 – 2018
-* ETEC - Escola Técnica Estadual Professor Armando José Farinazzo
+* Etec Fernandópolis
+  * Diploma: Ensino Técnico
+  * Área de estudo: Técnico em Informatica para Internet
+  * Período: 2014 – 2015
+* Etec Fernandópolis
   * Diploma: Ensino Técnico
   * Área de estudo: Técnico em Informatica
   * Período: 2013 – 2014
