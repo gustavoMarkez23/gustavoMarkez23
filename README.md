@@ -19,11 +19,11 @@
   * Período: 2016 – 2018
 * Etec Fernandópolis
   * Diploma: Ensino Técnico
-  * Área de estudo: Técnico em Informatica para Internet
+  * Área de estudo: Técnico em Informática para Internet
   * Período: 2014 – 2015
 * Etec Fernandópolis
   * Diploma: Ensino Técnico
-  * Área de estudo: Técnico em Informatica
+  * Área de estudo: Técnico em Informática
   * Período: 2013 – 2014
 
 **Cursos e Licenças**
