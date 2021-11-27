@@ -10,9 +10,9 @@
 **Experiências profissionais**
 * Ascont Sistemas & Web
   * Cargo: Desenvolvedor de software
-  * Periodo: 01/12/2016 - atualmente
+  * Período: 01/12/2016 - atualmente
 
-**Formações academicas**
+**Formações acadêmicas**
 * Faculdade de Tecnologia "Professor José Camargo" - Fatec Jales
   * Diploma: Curso Superior de Tecnologia (CST)
   * Área de estudo: Sistemas para Internet
