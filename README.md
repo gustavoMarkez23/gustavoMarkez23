@@ -15,11 +15,11 @@
 - 
 -->
 
+
 <div align="left">
   <a href="https://github.com/gustavoMarkez23">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavoMarkez23&show_icons=true&include_all_commits=true&count_private=true"/>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoMarkez23)](https://github.com/anuraghazra/github-readme-stats)
-   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoMarkez23&layout=compact&langs_count=10&custom_title=Ferramentas Utilizadas"/>-->
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavoMarkez23&layout=compact&langs_count=10&custom_title=Ferramentas%20Utilizadas"/>
   </a>
 </div>
 
